@@ -81,16 +81,6 @@ Open `http://localhost:3000/pages/index.html` in your browser.
 
 ---
 
-## 🔄 Git Push & Update
-
-```bash
-git add README.md backend/.gitignore
-git commit -m "docs: update and clean up project documentation"
-git push origin main
-```
-
----
-
 ## 📄 License
 
-Distributed under the MIT License. Built for educational and portfolio purposes.
+Distributed under the MIT License. Built for educational
